@@ -1,3 +1,3 @@
 # demo-1
-Sample Project
+Sample Project. 
 Author - Anusha Vitla
